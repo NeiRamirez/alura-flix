@@ -1,0 +1,109 @@
+{
+  "categoria": [
+    {
+      "descripcion": "Videos de la categoría frontend",
+      "nombre": "frontend",
+      "color": "#6BD1FF",
+      "id": "25"
+    },
+    {
+      "id": "3256",
+      "nombre": "Backend",
+      "color": "#00C86F",
+      "descripcion": "Videos de la categoria Backend"
+    },
+    {
+      "id": "256565",
+      "nombre": "Innovacion",
+      "color": "#7b00e0",
+      "descripcion": "Esta es una descripcion de la categoria"
+    },
+    {
+      "descripcion": "Videos de React 🐣",
+      "nombre": "React",
+      "color": "#00ffd5",
+      "id": "59804be1-bb35-426b-8db8-42fe3a2b52dc"
+    }
+  ],
+  "videos": [
+    
+    {
+      "id": "7",
+      "title": "Backend con react",
+      "metadescription": "Challenge BackEnd - Alura LATAM Oracle",
+      "categoria": {
+        "nombre": "Backend con react",
+        "color": "#FFBA05"
+      },
+      "img": "9YbBVmiBPbs",
+      "embedId": "1gUCu2e_JiM"      
+    },
+    {
+      "id": "8",
+      "title": "Frontend",
+      "metadescription": "Curos Frontend",
+      "categoria": {
+        "nombre": "frontend",
+        "color": "#FFBA05"
+      },
+      "img": "oqqTEeD8F0c",
+      "embedId": "oqqTEeD8F0c"
+    },    
+    {
+      "id": "16",
+      "title": "¿Qué es JavaScript?",
+      "metadescription": "JavaScript de  Alura oracleONE.",
+      "categoria": {
+        "nombre": "alura",
+        "color": "#7b00e0"
+      },
+      "img": "GJfOSoaXk4s",
+      "embedId": "GJfOSoaXk4s"
+    },
+    
+    {
+      "metadescription": "Aplicación web Frontend usando Rect",
+      "title": "React Aplicación",
+      "embedId": "zN6xXtHww54",
+      "img": "zN6xXtHww54",
+      "categoria": {
+        "nombre": "React",
+        "color": "#00ffd5"
+      },
+      "id": "55fb53e0-3444-476d-827f-60a6280650f1"
+    },
+    {
+      "metadescription": "React.js es una librería",
+      "title": "¿Qué es React.js y cómo funciona?",
+      "embedId": "lWQ69WX7-hA",
+      "img": "lWQ69WX7-hA",
+      "categoria": {
+        "nombre": "React",
+        "color": "#00ffd5"
+      },
+      "id": "98751bdc-d3e6-454e-b511-b22d14aa989f"
+    },
+    {
+      "metadescription": "React en eldesarrollo de paginas",
+      "title": "¿Qué es React.js y cómo funciona? ",
+      "embedId": "FyKPsua6Br8",
+      "img": "FyKPsua6Br8",
+      "categoria": {
+        "nombre": "React",
+        "color": "#00ffd5"
+      },
+      "id": "30e6f1bb-150b-497d-9546-509551336466"
+    },
+    {
+      "metadescription": "En este tutorial, vas a aprender a dibujar en CSS",
+      "title": "Dibujando con CSS",
+      "embedId": "IP3OmWpUuIg",
+      "img": "IP3OmWpUuIg",
+      "categoria": {
+        "nombre": "CSS",
+        "color": "#ff0000"
+      },
+      "id": "c8667563-683b-41f0-b30b-8bc5e3d74df0"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+.cabecera{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1.5em 10em;
+  background-color: var(--negro);
+  /* top: 5px;
+  left: 0.5px; 
+  border: 0px 0px 4px 0px;
+  opacity: 0px;
+  border-bottom: 4px solid var(--Blue, #2271D1);
+  box-shadow: 0px 5px 29px 0px #2271D1B2; */
+
+}
+.logoContainer{
+  height: 10px;
+  display: flex;
+  align-items: center;
+  gap: 25px;
+  width: Hug (385.25px)px;
+  /* opacity: 0px; */
+
+}
+
+/* .cabecera button img {
+  align-self: start;
+  border: none;  
+} */
